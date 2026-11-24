@@ -1,15 +1,34 @@
+<img width="1600" height="900" alt="WhatsApp Image 2026-07-01 at 11 11 26 AM" src="https://github.com/user-attachments/assets/add9df82-6822-4da4-b9a6-64c1f5515b9d" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-07-01 at 11 10 28 AM" src="https://github.com/user-attachments/assets/24a600b5-66f6-40f1-bcc7-d6e106681e79" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-07-01 at 11 10 01 AM" src="https://github.com/user-attachments/assets/9e362c2e-6fe5-4b18-9c29-04fabd5d334f" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-07-01 at 11 09 45 AM" src="https://github.com/user-attachments/assets/491e3687-1f70-4624-901f-79c90f35a959" />
 
-This project analyzes customer ratings to understand whether low ratings are influenced by operational performance or by customer preferences. The dashboard combines customer feedback with operational metrics to identify the factors that impact the overall customer experience.
+# Restaurant Operations: Ratings, Orders & Delivery | Power BI
 
-Are low customer ratings driven by long preparation and delivery times, or are they simply based on individual customer expectations? This project investigates how operational performance affects customer satisfaction and business outcomes.
+Find the live interactive version here: https://app.powerbi.com/groups/me/reports/8c16e957-1a06-4f00-9a97-e84e2665dc07/ac002b39ec2012e54060?experience=power-bi
 
-The analysis indicates that customers with lower ratings generally experienced longer preparation times, while delivery times remained close to average. It also explores customer segments, age groups, premium customers, promo code usage, cancellations, refunds, and order values to provide a broader understanding of customer behavior. These insights help identify operational improvements that can enhance customer satisfaction and reduce potential revenue loss.
+This Power BI project analyzes restaurant operations and customer ratings to understand what affects the customer experience. It focuses on preparation time, delivery time, customer behavior, and order performance to identify areas for improvement.
 
+## Key Dimensions & Features
 
-This project is made by Power BI, Power Query , Excel .
+**Customer Ratings:** Analyzes customer ratings to understand satisfaction levels.
 
-Customer ratings reflect more than just product quality. By combining operational data with customer feedback, businesses can better understand the customer experience, improve service performance, and make more informed operational decisions.
-<img width="1366" height="768" alt="WhatsApp Image 2026-07-01 at 11 11 26 AM" src="https://github.com/user-attachments/assets/2e4c7ad0-ec62-489a-9ce0-d910b283bacb" />
-<img width="1366" height="768" alt="WhatsApp Image 2026-07-01 at 11 10 28 AM" src="https://github.com/user-attachments/assets/cd06fc8e-44ae-4315-b1d1-9d9450ddf009" />
-<img width="1366" height="768" alt="WhatsApp Image 2026-07-01 at 11 10 01 AM" src="https://github.com/user-attachments/assets/38f415b5-f9bd-4b31-a2db-d2a7f55ed245" />
-<img width="1366" height="768" alt="WhatsApp Image 2026-07-01 at 11 09 45 AM" src="https://github.com/user-attachments/assets/75a346aa-faf7-42cd-a8ca-bb2679c968d0" />
+**Preparation Time:** Examines how order preparation time affects customer ratings.
+
+**Delivery Time:** Compares delivery time with customer ratings to understand its impact on the customer experience.
+
+**Customer Segmentation:** Analyzes customer behavior by age group and customer type, including premium customers.
+
+**Order Analysis:** Explores order values, promo code usage, cancellations, and refunds.
+
+**Operational Performance:** Identifies possible links between operational delays and lower customer ratings.
+
+## Key Insights & Recommendations
+
+**Improve Preparation Time:** Focus on reducing long preparation times, as lower ratings are often linked to longer preparation times.
+
+**Monitor Delivery Performance:** Keep delivery times consistent to improve the customer experience.
+
+**Understand Customer Segments:** Analyze customer groups to better understand their needs and behavior.
+
+**Reduce Cancellations and Refunds:** Monitor cancelled and refunded orders to identify possible revenue loss.
